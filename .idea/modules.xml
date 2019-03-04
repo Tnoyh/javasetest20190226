@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javase20190227/homework3y2d/homework3y2d.iml" filepath="$PROJECT_DIR$/../javase20190227/homework3y2d/homework3y2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javase20190227/javase20170301/javase20170301.iml" filepath="$PROJECT_DIR$/../javase20190227/javase20170301/javase20170301.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase20190226hs.iml" filepath="$PROJECT_DIR$/javase20190226hs.iml" />
       <module fileurl="file://$PROJECT_DIR$/../javase20190227/javase20190227.iml" filepath="$PROJECT_DIR$/../javase20190227/javase20190227.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javase20190227/javase20190228hs/javase20190228hs.iml" filepath="$PROJECT_DIR$/../javase20190227/javase20190228hs/javase20190228hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javasedemoliu/javase20190301/javase20190301.iml" filepath="$PROJECT_DIR$/../javasedemoliu/javase20190301/javase20190301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javase20190227/javase20190304hs/javase20190304hs.iml" filepath="$PROJECT_DIR$/../javase20190227/javase20190304hs/javase20190304hs.iml" />
     </modules>
   </component>
 </project>

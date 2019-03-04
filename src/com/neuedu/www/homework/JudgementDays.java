@@ -47,7 +47,7 @@ public class JudgementDays {
         }
 
         days+=day;//加上最后的号数
-        System.out.println(year+"年"+month+"月"+day+"日是今年的第"+days+"天。");
+        System.out.println(year+"年"+month+"月"+day+"日是"+year+"年的第"+days+"天。");
 
     }
 }
